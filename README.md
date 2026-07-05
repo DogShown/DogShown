@@ -1,7 +1,8 @@
 # <p align="center">Namaste 🙏 Sou um Estudante de TI</p>
 
+<!-- Banner do Astral Express em Pixel Art (Link Seguro para o GitHub) -->
 <p align="center">
-  <img src="https://media.tenor.com/y8W66Z3mX78AAAAC/honkai-star-rail-astral-express.gif" alt="Astral Express" width="100%" style="border-radius: 6px; border: 1px solid #d0d7de;"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmNnb3E0OG93bWx0Z3I3b3NmdDJ4bTZtcXp6Ym80bXNtcW9pdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YmGo7Is0V9D6M9yW7T/giphy.gif" alt="Astral Express" width="100%" style="border-radius: 6px; border: 1px solid #d0d7de;"/>
 </p>
 
 <p align="center">
