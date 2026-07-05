@@ -1,10 +1,10 @@
 # Olá, eu sou a Ester! 👋
 
 ## 🚀 Sobre Mim
-Sou uma estudante de programação focada em construir uma base sólida em desenvolvimento de software e tecnologia da informação. Atualmente, estou explorando o universo do código, dividindo meu interesse entre a **Engenharia de Software** (arquitetura e construção de sistemas) e a **Cibersegurança** (proteção e análise de vulnerabilidades).
+Sou uma estudante de programação focada em construir uma base sólida em tecnologia da informação. Atualmente, estou explorando o universo do código com o objetivo claro de me tornar uma **Engenheira de Software**, dedicando meus estudos à arquitetura de sistemas, desenvolvimento de aplicações e boas práticas de código.
 
-* 🎯 **Objetivo atual:** Dominar o desenvolvimento Full Stack e entender os fundamentos de segurança digital.
-* 📚 **Aprendendo constantemente:** Praticando lógica de programação, versionamento de código e boas práticas de desenvolvimento.
+* 🎯 **Objetivo atual:** Dominar o desenvolvimento de software e a construção de sistemas eficientes e escaláveis.
+* 📚 **Aprendendo constantemente:** Praticando lógica de programação, versionamento de código e desenvolvimento Full Stack.
 
 ---
 
@@ -27,7 +27,7 @@ Sou uma estudante de programação focada em construir uma base sólida em desen
 
 ## 📬 Vamos nos conectar?
 
-Gosto de trocar ideias sobre tecnologia, desafios de código e segurança. Se quiser conversar, você pode me encontrar aqui:
+Gosto de trocar ideias sobre tecnologia, arquitetura de sistemas e desafios de código. Se quiser conversar, você pode me encontrar aqui:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ester-beserra-dos-santos-4557183b6)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esterb2107@gmail.com)
