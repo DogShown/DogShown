@@ -1,9 +1,12 @@
 <div align="center">
   <h1>Olá, eu sou a Ester! 👋</h1>
   <p><i>Future Software Engineer</i></p>
+  
+  <!-- Linha divisória animada em néon que combina com o perfil -->
+  <img src="https://i.gifer.com/fetch/w300-h45/https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwN3Znd2p0N3Znd2p0&ep=v1_gifs_search&rid=giphy.gif" width="100%">
 </div>
 
----
+<br>
 
 ### 💻 `Sobre Mim`
 
@@ -33,13 +36,12 @@ Sou uma estudante de programação focada em construir uma base sólida em tecno
 
 ### 📬 `Vamos nos conectar?`
 
-Gosto de trocar ideias sobre tecnologia, arquitetura de sistemas e desafios de código. Se quiser conversar, você pode me encontrar aqui:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a1a.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/ester-beserra-dos-santos-4557183b6)
-[![E-mail](https://img.shields.io/badge/Email-%231a1a1a.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:esterb2107@gmail.com)
-
----
-
 <div align="center">
-  <sub>Continuamente transformando café em código... ☕💻</sub>
+  <!-- Card dinâmico estilo Hacker/Cyberpunk com uma frase dev -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Continuamente+transformando+caf%C3%A9+em+c%C3%B3digo...;Building+the+future+with+Java+%26+React...;Loading+Software+Engineer+skills...+" alt="Typing SVG" />
+  
+  <br><br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a1a.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/ester-beserra-dos-santos-4557183b6)
+  [![E-mail](https://img.shields.io/badge/Email-%231a1a1a.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:esterb2107@gmail.com)
 </div>
