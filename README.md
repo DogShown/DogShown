@@ -1,4 +1,4 @@
-# <p align="center">🌠 May this journey lead us starward.</p>
+# <p align="center">🌠 SIGNAL RECEIVED: “May this journey lead us starward.”</p>
 
 <p align="center">
     <img src="banner.svg" width="100%">
@@ -6,98 +6,48 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Trailblazer-Learning-gold?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Java-Main%20Path-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20to%20Learn-∞-4b6cb7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UNIT-TRAILBLAZER-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PATH-LEARNING%20PROTOCOL-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-EXPLORING%20THE%20STARS-4b6cb7?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🧭 About Me
+# 🧭 [IDENTITY LOG // DESBRAVADOR]
 
-> "Every journey begins with a single step."
+> “Every journey begins with a single step into the unknown.”
 
-Sou estudante de TI apaixonado por tecnologia, desenvolvimento e aprendizagem contínua.
+Sistema reconhece novo operador em formação.
 
-Atualmente estou construindo uma base sólida em:
+Perfil vinculado a uma rota de crescimento contínuo através do cosmos digital.
 
-- ☕ Java
-- 🌐 HTML • CSS • JavaScript
-- ⚛️ React
-- 🛡️ Cybersecurity
-- ☁️ Software Engineering
-- 📊 Data Engineering
+Atualmente operando sob o protocolo de aprendizagem ativa em:
 
-Meu objetivo é evoluir constantemente até descobrir o caminho onde posso causar maior impacto.
+- ☕ Java // núcleo da engenharia
+- 🌐 Web Systems // HTML • CSS • JavaScript
+- ⚛️ React // interfaces dinâmicas
+- 🛡️ Cybersecurity // defesa de sistemas
+- ☁️ Software Engineering // arquitetura de software
+- 📊 Data Engineering // fluxo e estrutura de dados
+
+📡 **Diretriz primária:** evoluir continuamente até encontrar o setor onde maior impacto possa ser gerado no universo tecnológico.
 
 ---
 
-# 🚂 Current Journey
+# 🚂 [CURRENT TRAJECTORY // EXPRESS ROUTE]
 
 ```text
-📍 Jarilo-VI
-    │
-    ├── ✅ HTML
-    ├── ✅ CSS
-    ├── ✅ Java
-    ├── 🚧 JavaScript
-    ├── 🚧 React
-    ├── ⏳ Spring Boot
-    ├── ⏳ SQL
-    └── ⭐ Future Destination
-```
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55">
-
-</p>
-
----
-
-# 📊 Trailblazing Progress
-
-```text
-███████████████████████████░░░░  HTML / CSS        80%
-
-████████████████████░░░░░░░░░░░  Java             65%
-
-██████████████░░░░░░░░░░░░░░░░░  JavaScript       45%
-
-████████░░░░░░░░░░░░░░░░░░░░░░░  React            25%
-
-████░░░░░░░░░░░░░░░░░░░░░░░░░░░  Spring Boot      10%
-```
-
----
-
-# 🌌 Philosophy
-
-<p align="center">
-
-> "May this journey lead us starward."
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</p>
+📍 Departure Node: Jarilo-VI
+        │
+        ├── ✔ HTML            // Structural Layer Stabilized
+        ├── ✔ CSS             // Visual Systems Calibrated
+        ├── ✔ Java            // Core Engine Activated
+        │
+        ├── ⚙ JavaScript      // Systems Integration in progress
+        ├── ⚙ React           // Interface Construction ongoing
+        │
+        ├── ⏳ Spring Boot     // Backend Expansion pending
+        ├── ⏳ SQL             // Data Layer initialization pending
+        │
+        └── ✦ UNKNOWN NODE    // Future destination undefined
