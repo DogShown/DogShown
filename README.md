@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou a Ester! 👋
 
 ## 🚀 Sobre Mim
 Sou um estudante de programação focado em construir uma base sólida em desenvolvimento de software e tecnologia da informação. Atualmente, estou explorando o universo do código, dividindo meu interesse entre a **Engenharia de Software** (arquitetura e construção de sistemas) e a **Cibersegurança** (proteção e análise de vulnerabilidades).
@@ -25,8 +25,8 @@ Front-end estruturado, estilizações modernas, lógica de programação robusta
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[DogShown]&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[DogShown]&layout=compact&langs_count=7&theme=gotham" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DogShown&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogShown&layout=compact&langs_count=7&theme=gotham" alt="Linguagens mais usadas" height="180em" />
 </div>
 
 ---
