@@ -1,42 +1,4 @@
-# <p align="center">🌠 SIGNAL RECEIVED: “May this journey lead us starward.”</p>
-
-<p align="center">
-    <img src="banner.svg" width="100%">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/UNIT-TRAILBLAZER-gold?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PATH-LEARNING%20PROTOCOL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-EXPLORING%20THE%20STARS-4b6cb7?style=for-the-badge"/>
-</p>
-
----
-
-# 🧭 [IDENTITY LOG // DESBRAVADOR]
-
-> “Every journey begins with a single step into the unknown.”
-
-Sistema reconhece novo operador em formação.
-
-Perfil vinculado a uma rota de crescimento contínuo através do cosmos digital.
-
-Atualmente operando sob o protocolo de aprendizagem ativa em:
-
-- ☕ Java // núcleo da engenharia
-- 🌐 Web Systems // HTML • CSS • JavaScript
-- ⚛️ React // interfaces dinâmicas
-- 🛡️ Cybersecurity // defense de sistemas
-- ☁️ Software Engineering // arquitetura de software
-- 📊 Data Engineering // fluxo e estrutura de dados
-
-📡 **Diretriz primária:** evoluir continuamente até encontrar o setor onde maior impacto possa ser gerado no universo tecnológico.
-
----
-
-# 🚂 [CURRENT TRAJECTORY // EXPRESS ROUTE]
-
-```text
-📍 Departure Node: Jarilo-VI
+SIGNAL RECEIVED: “May this journey lead us starward.”🧭 [IDENTITY LOG // DESBRAVADOR]“Every journey begins with a single step into the unknown.”Sistema reconhece novo operador em formação.Perfil vinculado a uma rota de crescimento contínuo através do cosmos digital.Atualmente operando sob o protocolo de aprendizagem ativa em:☕ Java // núcleo da engenharia🌐 Web Systems // HTML • CSS • JavaScript⚛️ React // interfaces dinâmicas🛡️ Cybersecurity // defesa de sistemas☁️ Software Engineering // arquitetura de software📊 Data Engineering // fluxo e estrutura de dados📡 Diretriz primária: evoluir continuamente até encontrar o setor onde maior impacto possa ser gerado no universo tecnológico.🚂 [CURRENT TRAJECTORY // EXPRESS ROUTE]Plaintext📍 Departure Node: Jarilo-VI
         │
         ├── ✔ HTML             // Structural Layer Stabilized
         ├── ✔ CSS              // Visual Systems Calibrated
@@ -49,3 +11,12 @@ Atualmente operando sob o protocolo de aprendizagem ativa em:
         ├── ⏳ SQL              // Data Layer initialization pending
         │
         └── ✦ UNKNOWN NODE     // Future destination undefined
+🚀 Status da Jornada & Diagnóstico dos MotoresSubsistema HidromecânicoVetor de AlinhamentoNível de Sincronia / EnergiaCaminho AtivoO Desbravamento (Full-Stack Dev)`[Combustível de SaltoCafé, Determinação & StackOverflow`[Integridade do EscudoArquitetura Limpa e Modularidade`[Mecanismo AntianomaliasResolução de Bugs em Tempo Real`[Sustentação de VidaMúsica Lo-Fi & Frequências Espaciais`[🪐 Missões Ativas & Anomalias EstelaresPlaintext[!] MISSÃO PRINCIPAL DETETADA: "Operação Alinhamento Primal"
+[DIRETRIZ]: Desenvolver aplicações escaláveis e arquiteturas limpas para conectar ecossistemas complexos.
+[RECOMPENSA]: Código auto-documentado, zero débitos técnicos e otimização máxima de performance.
+[PROGRESSO]: 78% das matrizes de dados integradas.
+Plaintext[!] MISSÃO SECUNDÁRIA INTERESTELAR: "Sinal de Eco Profundo"
+[DIRETRIZ]: Refatorar legados de dados em quadrantes de código antigos para restaurar a estabilidade do sistema.
+[STATUS]: Em fila de espera para processamento no próximo salto de órbita.
+⭐ Tecnologias & Arsenal Estelar (Hard Skills)Para rasgar o cosmos digital e estabilizar as rotas de dados, o terminal do Expresso Astral utiliza as seguintes matrizes de computação:📡 Núcleo de Propulsão Principal (Back-end)Linguagens de Alta Propulsão: Java, Node.js, TypeScript, Go, PythonMotores de Armazenamento Estelar: PostgreSQL, MongoDB, Redis, Arquiteturas Distribuídas🖥️ Matriz de Projeção Holográfica (Front-end)Camada Visual de Interface: HTML, CSS, JavaScript, React.js, Next.js, TailwindCSSSincronizadores de Órbita: Redux Toolkit, Zustand, Context API🛠️ Engenharia de Bordo & Suporte de VooCápsulas de Isolamento Estelar: Docker, Kubernetes, PodmanHipervias de CI/CD & Telemetria: GitHub Actions, AWS, Vercel, Prometheus📡 Registro de Expedições Concluídas (Portfólio)Cada mundo visitado gerou anomalias de dados resolvidas com sucesso e arquivadas nos registos da nave:🪐 Expedição: Sistema Alpha-NexusLog de Missão: Criação de um ecossistema de monitorização em tempo real para frotas de dados simulados.Matriz Utilizada: Next.js, WebSockets & TailwindCSS.Coordenadas Estelares: Estrela-Guia: Quadrante 12°N / 45°S☄️ Expedição: Arquivo de Carga OmegaLog de Missão: API RESTful robusta desenvolvida para gerir inventários complexos de carga e recursos interestelares.Matriz Utilizada: Node.js, Express & PostgreSQL.Coordenadas Estelares: Cinturão de Asteroides: Setor Ocidental 7🧭 Próximos Destinos & Setores Inexplorados (Objetivos)O Expresso Astral nunca para a sua marcha. Estes são os próximos setores de conhecimento que a tripulação pretende mapear:[ ] Setor IA-01 (Inteligência Artificial): Dominar a integração de Grandes Modelos de Linguagem (LLMs) e agentes autónomos.[ ] Setor CLOUD-X (Nuvem Avançada): Obter certificações de arquitetura para alta disponibilidade global.[ ] Setor CRYPTO-V (Criptografia): Implementar camadas avançadas de segurança e criptografia quântica em APIs.💫 Transmissão de Sub-espaço (Contacto)Se precisas de assistência para recalibrar os reatores do teu sistema ou queres iniciar uma expedição conjunta entre mundos, abra um canal de comunicação de sub-espaço:📡 Frequência Holo (LinkedIn): /in/seu-perfil📧 Sinal de Rádio (E-mail): seu.email@provedor.com💬 Terminal de Chat Privado (Discord): seu_usuario#0000Plaintext[SISTEMA: CONEXÃO ENCERRADA // EMISSÃO DO REGISTRO TERMINADA]
+[QUE A ESTRELA-GUIA ILUMINE SEMPRE O SEU CAMINHO, INOMINADO. ✨]
