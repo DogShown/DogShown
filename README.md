@@ -1,6 +1,10 @@
 # <p align="center">Namaste 🙏 Sou um Estudante de TI</p>
 
 <p align="center">
+  <img src="https://media.tenor.com/y8W66Z3mX78AAAAC/honkai-star-rail-astral-express.gif" alt="Astral Express" width="100%" style="border-radius: 6px; border: 1px solid #d0d7de;"/>
+</p>
+
+<p align="center">
   Estou atualmente a construir as minhas bases no ecossistema tecnológico. Enquanto foco na lógica de programação estruturada, exploro os caminhos de <strong>Engenharia de Software</strong>, <strong>Engenharia de Dados</strong> e <strong>Cibersegurança</strong> para definir a minha futura especialidade. O objetivo principal é adquirir conhecimento e evolução técnica constante. 🚀
 </p>
 
@@ -13,13 +17,6 @@
 - 🌐 **Front-end:** Experiência prática na estruturação de páginas web com **HTML** e **CSS**, progredindo em **JavaScript**.
 - ⚛️ **Aprendizagem:** A dar os primeiros passos em **React** para compreender ecossistemas modernos de componentes.
 - 🎯 **Incerto mas focado:** O meu foco de carreira futuro ainda é incerto, pelo que procuro absorver o melhor de cada vertente técnica.
-
----
-
-### 🎯 Áreas sob Avaliação & Próximos Passos:
-- **Engenharia de Software:** Criação de sistemas escaláveis e algoritmos otimizados com Java.
-- **Engenharia de Dados:** Manipulação e pipelines de fluxos de informação.
-- **Cibersegurança:** Auditoria de vulnerabilidades e desenvolvimento de arquiteturas de código seguro.
 
 ---
 
@@ -36,8 +33,6 @@
 ---
 
 ### 📊 Tech Stack & Grind (Gráfico de Distribuição Visual)
-
-Aqui está um gráfico textual que demonstra onde estou a investir o meu tempo de estudo atual:
 
 ```text
 Fundamentos Web (HTML5/CSS3)    ████████████████████████████████ 80%
