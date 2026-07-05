@@ -38,11 +38,11 @@ Hello there! Estou estudando **Tecnologia da Informação** e focado em construi
 ## 📊 Statistics
 
 <!-- CARDS COM TEMA "FASTLY" OU "DARK" EM LINHA -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> &nbsp;&nbsp; <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER_DO_GITHUB&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DogShown&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> &nbsp;&nbsp; <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DogShown&theme=dark"/>
 
 <br><br>
 
 <!-- GRÁFICO DE CONTRIBUIÇÃO COMPLETO -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USER_DO_GITHUB&theme=dark&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DogShown&theme=dark&area=true" />
 
 </div>
