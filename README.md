@@ -1,59 +1,79 @@
 <div align="center">
-  <!-- Headline Profissional com Animação estilo Terminal/Dev -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ester+Beserra+%7C+Engenharia+de+Software;Building+scalable+systems...;Java+%2F+JavaScript+%2F+React;const+dev+%3D+new+SoftwareEngineer();" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=ESTER+BESERRA+%7C+ASPIRING+SOFTWARE+ENGINEER;Turning+ideas+into+code;Learning.+Building.+Improving.;Trailblazing+through+the+universe+of+software." alt="Animated introduction" />
+
+  <p>
+    <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-0B1020?style=for-the-badge&labelColor=0B1020&color=38BDF8" alt="Focus: Software Development" />
+    <img src="https://img.shields.io/badge/STYLE-COSMIC%20%7C%20CODE-0B1020?style=for-the-badge&labelColor=0B1020&color=818CF8" alt="Cosmic code style" />
+  </p>
+
 </div>
 
 ---
 
-### 💻 `Sobre Mim`
+## 01 // ABOUT ME
 
-Sou uma estudante de programação focada em construir uma base sólida em tecnologia da informação. Atualmente, estou explorando o universo do código com o objetivo claro de me tornar uma **Engenheira de Software**, dedicando meus estudos à arquitetura de sistemas, desenvolvimento de aplicações e boas práticas de código.
+Hi! I'm **Ester**, a programming student working toward becoming a **Software Engineer**. I'm building a strong foundation in software development, exploring how applications are designed, built, and improved.
 
-- 🎯 **Objetivo atual:** Dominar o desenvolvimento de software e a construção de sistemas eficientes e escaláveis.
-- 📚 **Aprendendo constantemente:** Praticando lógica de programação, versionamento de código e desenvolvimento Full Stack.
+- 🔭 **Current focus:** Developing my skills through hands-on projects.
+- 🌱 **Learning journey:** Programming fundamentals, front-end development, and full-stack concepts.
+- 🎯 **Goal:** Write clean, useful, maintainable code and keep growing as a developer.
+- 🌌 **Personal lore:** A fan of *Honkai: Star Rail* — Kafka is the GOAT.
 
----
-
-### 🛠️ `Tech Stack & Ferramentas`
-
-#### Linguagens e Tecnologias:
-![Java](https://img.shields.io/badge/java-%231a1a1a.svg?style=for-the-badge&logo=openjdk&logoColor=%23F89820)
-![JavaScript](https://img.shields.io/badge/javascript-%231a1a1a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%231a1a1a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%231a1a1a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/css3-%231a1a1a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
-
-#### Ferramentas e IDEs:
-![Git](https://img.shields.io/badge/git-%231a1a1a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
-![GitHub](https://img.shields.io/badge/github-%231a1a1a.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%231a1a1a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%230078D4)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%231a1a1a.svg?style=for-the-badge&logo=intellij-idea&logoColor=%23000000)
+> *Stay curious. Keep building. Follow the next trailblaze.*
 
 ---
 
-### 📊 `Estatísticas do GitHub`
+## 02 // TECH STACK
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DogShown&theme=gotham&hide_border=true" alt="GitHub Streak Stats" />
+
+  **Languages & Web**
+
+  ![Java](https://img.shields.io/badge/Java-0B1020?style=for-the-badge&logo=openjdk&logoColor=38BDF8)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=FACC15)
+  ![HTML5](https://img.shields.io/badge/HTML5-0B1020?style=for-the-badge&logo=html5&logoColor=FB923C)
+  ![CSS3](https://img.shields.io/badge/CSS3-0B1020?style=for-the-badge&logo=css3&logoColor=60A5FA)
+  ![React](https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=38BDF8)
+
+  **Tools & IDEs**
+
+  ![Git](https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F97316)
+  ![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=E2E8F0)
+  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0B1020?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0B1020?style=for-the-badge&logo=intellijidea&logoColor=A78BFA)
+
 </div>
 
 ---
 
-### 📬 `Vamos nos conectar?`
-
-Gosto de trocar ideias sobre tecnologia, arquitetura de sistemas e desafios de código. Se quiser conversar, você pode me encontrar aqui:
+## 03 // GITHUB ACTIVITY
 
 <div align="center">
-  <a href="https://linkedin.com/in/ester-beserra-dos-santos-4557183b6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DogShown&theme=transparent&hide_border=true&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 04 // CONNECT
+
+I'm always happy to connect with people who enjoy technology, learning, and building things.
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/ester-beserra-dos-santos-4557183b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
   </a>
   <a href="mailto:esterb2107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=818CF8" alt="Email" />
   </a>
+
 </div>
 
----
-
 <div align="center">
-  <sub>Continuamente transformando café em código... ☕💻</sub>
+
+  <sub>✦ Made of curiosity, caffeine, and a little cosmic chaos. ✦</sub>
+
 </div>
