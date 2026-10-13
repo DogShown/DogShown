@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1100&color=8ECDF3&center=true&vCenter=true&width=760&lines=ESTER+BESERRA+%7C+ASPIRING+SOFTWARE+ENGINEER;Turning+ideas+into+code;Learning.+Building.+Improving.;Every+choice+opens+a+new+path." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1100&color=8ECDF3&center=true&vCenter=true&width=760&lines=ESTER+BESERRA+DOS+SANTOS+%7C+ASPIRING+SOFTWARE+ENGINEER;Turning+ideas+into+code;Learning.+Building.+Improving.;Every+choice+opens+a+new+path." alt="Animated introduction" />
 
   <p>
     <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-080B12?style=for-the-badge&labelColor=080B12&color=8ECDF3" alt="Focus: Software Development" />
