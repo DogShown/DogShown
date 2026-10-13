@@ -7,6 +7,12 @@
     <img src="https://img.shields.io/badge/STYLE-COSMIC%20%7C%20CODE-080B12?style=for-the-badge&labelColor=080B12&color=A78BFA" alt="Cosmic code style" />
   </p>
 
+  <p>
+    <img src="./assets/pixel-bat.svg" width="76" height="76" alt="Pixel-art baseball bat" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="./assets/pixel-sword.svg" width="76" height="76" alt="Pixel-art sword" />
+  </p>
+
 </div>
 
 ---
